@@ -25,7 +25,7 @@
 
 ### Analytics
 
-![R](https://img.shields.io/badge/R-Programmming?style=for-the-badge&logo=tidyverse&logoColor=white)
+![R](https://img.shields.io/badge/R-Programmming-c30c3e?style=for-the-badge&logo=tidyverse&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spark](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
