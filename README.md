@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=saifkabirasif&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=saifkabirasif&show_icons=true&include_all_commits=true&theme=light&hide_border=true" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifkabirasif&theme=light&hide_border=true" alt="GitHub Streak" height="165" />
 
 
