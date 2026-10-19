@@ -26,23 +26,23 @@
 ### Analytics
 
 ![R](https://img.shields.io/badge/R_Programmming-c30c3e?style=for-the-badge&logo=tidyverse&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-c30c3e.js-339933?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache-Spark-c30c3e?style=for-the-badge&logo=apachespark&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0E7D9C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-c30c3e?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache-Spark-0E7D9C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-c30c3e?style=for-the-badge)
 
 ### Harness & AI Tools 
 
-![Hermes](https://img.shields.io/badge/Hermes-3776AB?style=for-the-badge&logo=hermes&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-3776AB?style=for-the-badge&logo=opencode&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-3776AB?style=for-the-badge&logo=claudecode&logoColor=white)
-![GLM](https://img.shields.io/badge/GLM-3776AB?style=for-the-badge&logo=zdotai&logoColor=white)
-![Nemotron](https://img.shields.io/badge/Nemotron-3776AB?style=for-the-badge&logo=nvidia&logoColor=white)
-![Flux](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=flux&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-F0DF4D?style=for-the-badge&logo=hermes&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-3D3C30?style=for-the-badge&logo=opencode&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-DE7A09?style=for-the-badge&logo=claudecode&logoColor=white)
+![GLM](https://img.shields.io/badge/GLM-3D3C30?style=for-the-badge&logo=zdotai&logoColor=white)
+![Nemotron](https://img.shields.io/badge/Nemotron-27B305?style=for-the-badge&logo=nvidia&logoColor=white)
+![Flux](https://img.shields.io/badge/Flux-3D3C30?style=for-the-badge&logo=flux&logoColor=white)
 
 ### Backend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0E7D9C?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -53,22 +53,22 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Databases
-![SQLite](https://img.shields.io/badge/SQLite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/08AED4-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-4479A1?style=for-the-badge&logo=duckdb&logoColor=white)
-![Hive](https://img.shields.io/badge/Apache-Hive-4479A1?style=for-the-badge&logo=apachehive&logoColor=white)
+![Hive](https://img.shields.io/badge/Apache-Hive-F6EE09?style=for-the-badge&logo=apachehive&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-D42008?style=for-the-badge)
+![DuckDB](https://img.shields.io/badge/DuckDB-F6EE09?style=for-the-badge&logo=duckdb&logoColor=white)
 
 ### Infra
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-2496ED?style=for-the-badge&logo=podman&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-c30c3e?style=for-the-badge&logo=podman&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### Observability
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Beszel](https://img.shields.io/badge/Beszel-F46800?style=for-the-badge&logo=beszel&logoColor=white)
+![Beszel](https://img.shields.io/badge/Beszel-c30c3e?style=for-the-badge&logo=beszel&logoColor=white)
 
 ---
 
