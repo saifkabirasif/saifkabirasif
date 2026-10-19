@@ -66,7 +66,6 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=saifkabirasif&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifkabirasif&theme=light&hide_border=true" alt="GitHub Streak" height="165" />
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saifkabirasif&layout=compact&theme=light&hide_border=true" alt="Most Used Languages" />
 
 </div>
 
