@@ -2,8 +2,6 @@
 
 # Hello, It's me - Saif
 
-### Practical Analytics Person | Hobbyist Developer | Tinkerer
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=c30c3e&center=true&vCenter=true&width=800&lines=Pragmatic+Analytics+Person+%7C+Hobbyist+Developer+%7C+Tinkerer%7C" alt="Typing SVG" />
 
 [![Status](https://img.shields.io/badge/Dispon%C3%ADvel_para_projetos-brightgreen?style=for-the-badge)](mailto:felipegreck2015@gmail.com)
