@@ -53,7 +53,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Databases
-![SQLite](https://img.shields.io/badge/08AED4-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hive](https://img.shields.io/badge/Apache-Hive-F6EE09?style=for-the-badge&logo=apachehive&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-D42008?style=for-the-badge)
