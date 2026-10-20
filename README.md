@@ -83,7 +83,6 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=saifkabirasif0&color=c30c3e&style=flat)
 
 </div>
 
