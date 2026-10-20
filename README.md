@@ -58,6 +58,8 @@
 ![Hive](https://img.shields.io/badge/Apache-Hive-F6EE09?style=for-the-badge&logo=apachehive&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-D42008?style=for-the-badge)
 ![DuckDB](https://img.shields.io/badge/DuckDB-F6EE09?style=for-the-badge&logo=duckdb&logoColor=white)
+![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logo=turso&logoColor=white)
+
 
 ### Infra
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
