@@ -28,7 +28,7 @@
 ![R](https://img.shields.io/badge/R_Programmming-c30c3e?style=for-the-badge&logo=tidyverse&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0E7D9C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-c30c3e?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache-Spark-0E7D9C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache-Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-c30c3e?style=for-the-badge)
 
 ### Harness & AI Tools 
@@ -55,7 +55,7 @@
 ### Databases
 ![SQLite](https://img.shields.io/badge/SQLite-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hive](https://img.shields.io/badge/Apache-Hive-F6EE09?style=for-the-badge&logo=apachehive&logoColor=white)
+![Hive](https://img.shields.io/badge/Apache-Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-D42008?style=for-the-badge)
 ![DuckDB](https://img.shields.io/badge/DuckDB-F6EE09?style=for-the-badge&logo=duckdb&logoColor=white)
 ![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=for-the-badge&logo=turso&logoColor=white)
